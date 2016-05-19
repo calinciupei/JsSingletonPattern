@@ -1,5 +1,5 @@
 /**
- * Created by calin on 19-May-16.
+ * Created by Calin on 19-May-16.
  *
- * Simple version of a constructor pattern.
+ * Simple version of a singleton pattern.
  */
