@@ -20,3 +20,5 @@ var classSingleton = {
     }
 }
 ```
+
+For more example see SingletonPattern.js
